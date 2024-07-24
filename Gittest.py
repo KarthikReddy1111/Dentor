@@ -1,0 +1,1 @@
+print("Welcome to Dentor Project-- 24/07/2024")
